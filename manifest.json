@@ -1,11 +1,12 @@
 {
   "name": "QR Pro",
-  "short_name": "QR Pro",
-  "start_url": "index.html",
+  "short_name": "QRPro",
+  "description": "مولد QR ديناميكي ثلاثي الأبعاد مع تأثيرات متقدمة",
+  "start_url": "/EXM2/index.html",
   "display": "standalone",
-  "background_color": "#0f1115",
-  "theme_color": "#4d61fc",
   "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4d61fc",
   "icons": [
     {
       "src": "icon-192.png",
